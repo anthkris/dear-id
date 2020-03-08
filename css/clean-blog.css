@@ -183,7 +183,7 @@ hr.small {
 }
 
 .stars:before {
-  font-family: FontAwesome;
+  font-family: 'Glyphicons Halflings';
   font-style: normal;
   font-weight: normal;
   text-decoration: inherit;
@@ -191,11 +191,11 @@ hr.small {
 }
 
 .five-stars:before {
-  content: "\f005 \f005 \f005 \f005 \f005";
+  content: "\f015 \f015 \f015 \f015 \f015";
 }
 
 .four-stars:before {
-  content: "\f005 \f005 \f005 \f005";
+  content: "\f015 \f015 \f015 \f015";
 }
 
 .review-text {
